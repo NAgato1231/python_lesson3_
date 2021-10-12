@@ -59,20 +59,3 @@ if __name__ == '__main__':
 
 
 
-    # a = 2
-    # b = 3
-    # print("This is your homework")
-    # digit = 18
-    # list_of_digits = [2 + 1]
-    #
-    # print(list_of_digits)
-    #
-    # list_of_digits = [3 + 2]
-    #
-    # print(list_of_digits)
-    # print(int("1000") - int("7"))
-    # print(int("2") < int("2"))
-    # print(int("2") > int("1"))
-    # print(int("3") > int("3"))
-    # print(int("3") > int("2"))
-    # print(type(list_of_digits))
